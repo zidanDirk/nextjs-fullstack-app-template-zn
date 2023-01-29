@@ -2,6 +2,7 @@
   "name": "nextjs-fullstack-app-template-zn",
   "version": "0.1.0",
   "private": true,
+  "author": "zidan",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -19,5 +20,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.4"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "yarn": ">=1.22.0"
   }
 }
