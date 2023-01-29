@@ -8,6 +8,7 @@
 // style: 不影响代码含义的更改（空格、格式、缺少分号等）
 // test: 添加缺失的测试或更正现有测试
 
+
 module.exports = {
     extends: ['@commitlint/config-conventional'],
     rules: {
