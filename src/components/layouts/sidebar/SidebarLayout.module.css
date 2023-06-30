@@ -6,6 +6,7 @@
     background-color: #fafafa;
     padding: 32px;
     border-right: 1px solid #eaeaea;
+    z-index: 10;
   }
   
   .nav > a {
